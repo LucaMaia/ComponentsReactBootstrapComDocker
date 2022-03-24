@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+
+}
+
+.App-logo {
+ width: 90px;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+}
+
